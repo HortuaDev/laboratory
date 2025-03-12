@@ -1,0 +1,386 @@
+html {
+  background:
+    linear-gradient(223deg, #444444 105%, #727272 108%, #3a3a3a 62%, #818181 -67%, #6f6f6f -25%);
+}
+
+body {
+  min-width: 175px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  color: black;
+  background-color: #888888;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.header_title {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.header_list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
+
+.header_list_item {
+  transition: color 0.3s ease;
+  cursor: pointer;
+  padding: 0.5rem;
+}
+
+.header_list_item:hover {
+  color: #686868;
+}
+
+.App {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  background: linear-gradient(135deg,
+      #1a1a1a 0%,
+      #2c2c2c 25%,
+      #323232 50%,
+      #2e2e2e 75%,
+      #1e1e1e 100%);
+  min-height: 100vh;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.card_container {
+  display: flex;
+  text-decoration: none;
+}
+
+.card {
+  background-color: #484a4f;
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+.card h1 {
+  color: black;
+}
+
+.card img {
+  border-radius: 10px;
+  width: 100%;
+  height: 190px;
+  object-fit: cover;
+}
+
+.image_card_1 {
+  object-position: center 20%;
+}
+
+.image_card_2 {
+  object-position: center 39%;
+}
+
+.image_card_3 {
+  object-position: center 72%;
+}
+
+.image_card_4,
+.image_card_5 {
+  object-position: center 62%;
+}
+
+.card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Login */
+
+/* Contenedor principal del formulario */
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #3b3b3b;
+}
+
+/* Estilos del formulario */
+.login-form {
+  background-color: #ababab;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+}
+
+/* Título del formulario */
+.login-title {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #000000;
+  margin-bottom: 1.5rem;
+}
+
+/* Grupo de formulario */
+.form-group {
+  margin-bottom: 1rem;
+}
+
+/* Etiquetas de los campos */
+.form-label {
+  display: block;
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 0.5rem;
+}
+
+/* Campos de entrada */
+.form-input {
+  width: calc(100% - .5rem);
+  padding: 0.5rem;
+  /* Espaciado interno */
+  border-radius: 4px;
+  /* Bordes redondeados */
+  border: 1px solid #ddd;
+  /* Borde gris claro */
+  font-size: 1rem;
+  /* Tamaño de fuente */
+}
+
+/* Botón de envío */
+.login-button {
+  width: calc(100% - .5rem);
+  padding: 0.75rem;
+  background-color:#3f3f3f;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.login-button:hover {
+  background-color: #166fe5;
+}
+
+.login-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.logged-in-content {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.home-button, .logout-button {
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.home-button {
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+}
+
+.home-button:hover {
+  background-color: #45a049;
+}
+
+.logout-button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+}
+
+.logout-button:hover {
+  background-color: #d32f2f;
+}
+
+@media (max-width: 350px) {
+  .App {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* musculo */
+
+.musculo_container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(135deg, #1a1a1a 0%, #2c2c2c 25%, #323232 50%, #2e2e2e 75%, #1e1e1e 100%);
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.titulo_musculo {
+  text-transform: uppercase;
+  margin: 20px 0;
+  font-size: 63px;
+  color: #c9c9c9;
+}
+
+.card_musculo {
+  background-color: #c9c9c9;
+  text-align: center;
+  color: black;
+  border-radius: 10px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-decoration: none;
+  align-content: center;
+}
+
+.musculo_cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  padding: 20px;
+
+}
+
+
+.card_musculo:active {
+  transform: scale(0.95);
+}
+
+.card_musculo_advanced {
+  grid-column: 1 / span 2;
+}
+
+
+/* Basico */
+
+.item_ejercicio {
+  display: flex;
+  border-radius: 10px;
+  margin: 10px;
+  color: white;
+  background: linear-gradient(135deg, #1a1a1a 0%, #2c2c2c 25%, #323232 50%, #2e2e2e 75%, #1e1e1e 100%);
+  padding-top: 10px;
+}
+
+.item_botones {
+  width: 10%;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.item_container {
+  width: 90%;
+  margin-bottom: 20px;
+  flex-direction: column;
+  display: flex;
+}
+
+/* configurracion */
+
+
+.inputs_container_option_menu{
+  display: flex;
+  flex-direction: column;
+}
+
+.item_input{
+}
+
+.etiqueta_nombre{
+
+}
+
+.input_peso{
+
+}
+
+
+@media screen and (max-width: 450px) {
+
+  .header_list {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    color: white;
+    top: 60px;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 1rem;
+    list-style: none;
+    transition: transform 0.3s ease-in-out;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transform: translateX(100%);
+  }
+
+  .header_list.visible {
+    display: flex;
+    transform: translateX(0);
+  }
+
+  .header_list_item a {
+    color: white;
+  }
+
+  .menu-icon {
+    display: block;
+    width: 30px;
+    height: 20px;
+    position: relative;
+    cursor: pointer;
+  }
+
+  .menu-icon::before,
+  .menu-icon::after,
+  .menu-icon span {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #333;
+    position: absolute;
+    left: 0;
+  }
+
+  .menu-icon::before {
+    top: 0;
+  }
+
+  .menu-icon span {
+    top: 9px;
+  }
+
+  .menu-icon::after {
+    bottom: 0;
+  }
+}

@@ -1,0 +1,538 @@
+[
+  
+   
+    
+      {
+        "id": 1,
+        "title": "Hombro",
+        "image": "https://media.istockphoto.com/id/623214600/es/foto/culturista-culturismo-m%C3%BAsculos-culturista-constructor-del-cuerpo-de-la-construcci%C3%B3n-de-los.jpg?s=612x612&w=is&k=20&c=Yy0jTNgsG5v3aRvIwZ1LfOxCSd9GWcb-O1FM4FXYdjE=",
+        "routine": [
+          {
+            "name": "basic",
+            "exercice": [
+              {
+                "name": "Press Militar (Deltoides Anterior)",
+                "video": "",
+                "series": 2,
+                "repetitions": "4-6",
+                "description": ""
+              },
+              {
+                "name": "Elevaciones Laterales (Deltoides Lateral)",
+                "video": "",
+                "series": 2,
+                "repetitions": "4-6",
+                "description": ""
+              },
+              {
+                "name": "Remo al Mentón (Deltoides Posterior)",
+                "video": "",
+                "series": 2,
+                "repetitions": "4-6",
+                "description": ""
+              },
+              {
+                "name": "Encogimientos de Hombros (Trapecio)",
+                "video": "",
+                "series": 2,
+                "repetitions": "4-6",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "name": "normal",
+            "exercice": [
+              {
+                "name": "Press Militar (Deltoides Anterior)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Elevaciones Laterales (Deltoides Lateral)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Remo al Mentón (Deltoides Posterior)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Encogimientos de Hombros (Trapecio)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "name": "advanced",
+            "exercice": [
+              {
+                "name": "Press Militar (Deltoides Anterior)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Elevaciones Laterales (Deltoides Lateral)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Remo al Mentón (Deltoides Posterior)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Encogimientos de Hombros (Trapecio)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Pecho",
+        "image": "https://media.istockphoto.com/id/543555706/es/foto/chico-culturista-muscular-haciendo-posando-sobre-fondo-negro.jpg?s=612x612&w=is&k=20&c=tjPUbRCdPtJPZp3S41AhwpGKlNjlPeTilhWFLgcUX_o=",
+        "routine": [
+          {
+            "name": "basic",
+            "exercice": [
+              {
+                "name": "Press de Banca Inclinado (Pectoral Superior)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              },
+              {
+                "name": "Press de Banca Plano (Pectoral Medio)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              },
+              {
+                "name": "Press de Banca Declinado (Pectoral Inferior)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              },
+              {
+                "name": "Aperturas con Mancuernas (Pectoral Completo)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "name": "normal",
+            "exercice": [
+              {
+                "name": "Press de Banca Inclinado (Pectoral Superior)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Press de Banca Plano (Pectoral Medio)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Press de Banca Declinado (Pectoral Inferior)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Aperturas con Mancuernas (Pectoral Completo)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "name": "advanced",
+            "exercice": [
+              {
+                "name": "Press de Banca Inclinado (Pectoral Superior)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Press de Banca Plano (Pectoral Medio)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Press de Banca Declinado (Pectoral Inferior)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Aperturas con Mancuernas (Pectoral Completo)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Espalda",
+        "image": "https://media.istockphoto.com/id/610576810/es/foto/atleta-fitness-muscular-modelo-masculino-tirando-hacia-arriba-en-la-barra-horizontal.jpg?s=612x612&w=is&k=20&c=IUFvbIlYYaKBNpUjNpEgUf_Lko_W7mZA0Hl74Pc6nTI=",
+        "routine": [
+          {
+            "name": "basic",
+            "exercice": [
+              {
+                "name": "Dominadas (Dorsal Ancho)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              },
+              {
+                "name": "Remo con Barra (Trapecio Medio y Romboides)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              },
+              {
+                "name": "Hiperextensiones (Erector de la Columna)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              },
+              {
+                "name": "Pull-over con Mancuerna (Serrato Anterior)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "name": "normal",
+            "exercice": [
+              {
+                "name": "Dominadas (Dorsal Ancho)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Remo con Barra (Trapecio Medio y Romboides)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Hiperextensiones (Erector de la Columna)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Pull-over con Mancuerna (Serrato Anterior)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "name": "advanced",
+            "exercice": [
+              {
+                "name": "Dominadas (Dorsal Ancho)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Remo con Barra (Trapecio Medio y Romboides)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Hiperextensiones (Erector de la Columna)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Pull-over con Mancuerna (Serrato Anterior)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Brazo",
+        "image": "https://media.istockphoto.com/id/516621476/es/foto/muscular-hombre-en-americano-africano-negro-y-blanco.jpg?s=612x612&w=0&k=20&c=ZjUIhZwL0sbdMfmqEzutwVTBvQgQirGdbzgFfVR4v9c=",
+        "routine": [
+          {
+            "name": "basic",
+            "exercice": [
+              {
+                "name": "Curl de Bíceps con Barra (Bíceps)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              },
+              {
+                "name": "Press Francés (Tríceps)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              },
+              {
+                "name": "Martillo con Mancuernas (Braquial y Braquiorradial)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              },
+              {
+                "name": "Extensiones de Muñeca (Antebrazo)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "name": "normal",
+            "exercice": [
+              {
+                "name": "Curl de Bíceps con Barra (Bíceps)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Press Francés (Tríceps)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Martillo con Mancuernas (Braquial y Braquiorradial)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Extensiones de Muñeca (Antebrazo)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "name": "advanced",
+            "exercice": [
+              {
+                "name": "Curl de Bíceps con Barra (Bíceps)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Press Francés (Tríceps)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Martillo con Mancuernas (Braquial y Braquiorradial)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Extensiones de Muñeca (Antebrazo)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Pierna",
+        "image": "https://media.istockphoto.com/id/481945566/es/foto/nunca-pierna-de-omisi%C3%B3n-de-d%C3%ADa.jpg?s=1024x1024&w=is&k=20&c=b8LGmGX6pGMGPMp5etcprd86ohduMGS1uWTaaY1bINo=",
+        "routine": [
+          {
+            "name": "basic",
+            "exercice": [
+              {
+                "name": "Sentadillas (Cuádriceps y Glúteos)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              },
+              {
+                "name": "Peso Muerto Rumano (Femoral)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              },
+              {
+                "name": "Abducción de Cadera (Abductor)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              },
+              {
+                "name": "Elevaciones de Talones (Pantorrilla)",
+                "video": "",
+                "series": 2,
+                "repetitions": "6-8",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "name": "normal",
+            "exercice": [
+              {
+                "name": "Sentadillas (Cuádriceps y Glúteos)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Peso Muerto Rumano (Femoral)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Abducción de Cadera (Abductor)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              },
+              {
+                "name": "Elevaciones de Talones (Pantorrilla)",
+                "video": "",
+                "series": 3,
+                "repetitions": "8-10",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "name": "advanced",
+            "exercice": [
+              {
+                "name": "Sentadillas (Cuádriceps y Glúteos)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Peso Muerto Rumano (Femoral)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Abducción de Cadera (Abductor)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              },
+              {
+                "name": "Elevaciones de Talones (Pantorrilla)",
+                "video": "",
+                "series": 4,
+                "repetitions": "10-12",
+                "description": ""
+              }
+            ]
+          }
+        ]
+      }
+      
+    
+  
+]
